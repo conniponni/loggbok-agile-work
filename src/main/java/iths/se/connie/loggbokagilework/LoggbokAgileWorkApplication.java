@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class LoggbokAgileWorkApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(LoggbokAgileWorkApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(LoggbokAgileWorkApplication.class, args);
+    }
 
 }
